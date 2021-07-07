@@ -1,15 +1,16 @@
 {
 	"name" : "Chess Pieces for Tafl",
-	"preview" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/preview.png",
+	"creator" : "ByronEugene1",
+	"preview" : "preview.png",
 	"pieces" : {
-		"preview" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/preview.png",
-		"king" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/king.png",
-		"white" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/white.png",
-		"black" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/black.png",
-		"guard" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/guard.png",
-		"commander" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/commander.png",
-		"knight" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/knight.png",
-		"variegated_black" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/variegated_black.png",
-		"variegated_white" : "https://raw.githubusercontent.com/byronarn/ChessTafl/main/variegated_white.png"
+		"preview" : "preview.png",
+		"king" : "king.png",
+		"white" : "white.png",
+		"black" : "black.png",
+		"guard" : "guard.png",
+		"commander" : "commander.png",
+		"knight" : "knight.png",
+		"variegated_black" : "variegated_black.png",
+		"variegated_white" : "variegated_white.png"
 	}
 }
